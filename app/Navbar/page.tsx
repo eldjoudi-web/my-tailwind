@@ -36,7 +36,7 @@ function Navbar() {
               </svg>
               <span className="relative">You</span>
             </span>{" "}
-            miss 100% of the shots you don't take
+            miss 100% of the shots you dont take
           </h2>
           <p className="text-base text-gray-700 md:text-lg">
             Sed ut perspiciatis unde omnis iste natus error sit voluptatem

@@ -45,22 +45,22 @@ function Herosection() {
                 </Link>
               </li>
               <li className="flex">
-                <a
+              <Link
                   rel="noopener noreferrer"
-                  href="#"
+                  href="/Navbar"
                   className="flex items-center px-4 -mb-1 border-b-2 dark:border-"
                 >
-                  Link
-                </a>
+                  Navbar
+                </Link>
               </li>
               <li className="flex">
-                <a
+              <Link
                   rel="noopener noreferrer"
-                  href="#"
+                  href="/Navbar"
                   className="flex items-center px-4 -mb-1 border-b-2 dark:border-"
                 >
-                  Link
-                </a>
+                  Navbar
+                </Link>
               </li>
             </ul>
           </div>
