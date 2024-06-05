@@ -81,7 +81,7 @@ function Navbar() {
               </svg>
             </div>
             <span className="text-gray-800">
-              Die with memories, not dreams.
+             hello my name is djoudi .
             </span>
           </div>
           <div className="flex items-center p-2 duration-300 transform border rounded shadow hover:scale-105 sm:hover:scale-110">
